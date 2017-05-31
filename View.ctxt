@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=board\ control
+comment0.target=View(char[][],\ Control)
+comment1.params=grid
+comment1.target=void\ setLabels(char[][])
+comment2.params=b
+comment2.target=void\ giveBoard(char[][])
+numComments=3

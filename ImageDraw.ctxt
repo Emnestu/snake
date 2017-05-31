@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=g
+comment0.target=void\ paintComponent(java.awt.Graphics)
+comment1.params=width\ height
+comment1.target=void\ giveSize(int,\ int)
+comment2.params=b
+comment2.target=void\ setBoard(char[][])
+numComments=3

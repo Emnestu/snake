@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=w\ h
+comment0.target=Snake(int,\ int)
+comment1.params=
+comment1.target=void\ printMe()
+comment2.params=d
+comment2.target=void\ giveDir(char)
+comment3.params=isthisclear
+comment3.target=boolean\ clearCheck(int[])
+comment4.params=
+comment4.target=int[]\ randomFoodGen()
+comment5.params=
+comment5.target=void\ placeFood()
+comment6.params=
+comment6.target=void\ tick()
+comment7.params=
+comment7.target=char[][]\ getBoard()
+numComments=8

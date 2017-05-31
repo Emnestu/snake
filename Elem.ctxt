@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=myX\ myY\ myPrev
+comment0.target=Elem(int,\ int,\ Elem)
+comment1.params=
+comment1.target=int\ getX()
+comment2.params=
+comment2.target=int\ getY()
+comment3.params=p
+comment3.target=void\ setPrev(Elem)
+comment4.params=
+comment4.target=Elem\ getPrev()
+numComments=5
